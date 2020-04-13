@@ -1,0 +1,14 @@
+/Users/dennychung/Documents/Portfolio_I/bin/Debug/netcoreapp2.2/Portfolio_I.deps.json
+/Users/dennychung/Documents/Portfolio_I/bin/Debug/netcoreapp2.2/Portfolio_I.runtimeconfig.json
+/Users/dennychung/Documents/Portfolio_I/bin/Debug/netcoreapp2.2/Portfolio_I.runtimeconfig.dev.json
+/Users/dennychung/Documents/Portfolio_I/bin/Debug/netcoreapp2.2/Portfolio_I.dll
+/Users/dennychung/Documents/Portfolio_I/bin/Debug/netcoreapp2.2/Portfolio_I.pdb
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.csprojAssemblyReference.cache
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.csproj.CoreCompileInputs.cache
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.RazorAssemblyInfo.cache
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.RazorAssemblyInfo.cs
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.AssemblyInfoInputs.cache
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.AssemblyInfo.cs
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.RazorTargetAssemblyInfo.cache
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.dll
+/Users/dennychung/Documents/Portfolio_I/obj/Debug/netcoreapp2.2/Portfolio_I.pdb
